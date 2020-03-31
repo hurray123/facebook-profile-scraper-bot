@@ -2,9 +2,10 @@ import sys
 import time
 import json
 from pymongo import MongoClient
-from SeleniumHelper import SeleniumHelper
+from kendra 
+import kendra 
 
-class FacebookProfile(SeleniumHelper):
+class FacebookProfile(kendra):
 
 	db = None
 	client = None
